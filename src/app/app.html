@@ -1,1 +1,17 @@
-<main class="app-shell"></main>
+<app-header />
+
+<main class="app-shell">
+  <section class="featured-event" aria-labelledby="featured-event-title">
+    <img
+      class="featured-event__image"
+      src="{{ featuredEvent.imageUrl }}"
+      alt="{{ featuredEvent.title }}"
+    />
+    <div class="featured-event__content">
+      <p class="featured-event__eyebrow">Evento destacado</p>
+      <h1 id="featured-event-title">{{ featuredEvent.title }}</h1>
+      <p class="featured-event__description">{{ featuredEvent.description }}</p>
+      <p class="featured-event__meta">{{ featuredEvent.date }} · {{ featuredEvent.location }}</p>
+    </div>
+  </section>
+</main>
