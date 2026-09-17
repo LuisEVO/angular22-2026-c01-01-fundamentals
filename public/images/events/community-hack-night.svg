@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Community Hack Night">
+  <defs>
+    <linearGradient id="hack-sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8e3dc"/>
+      <stop offset="100%" stop-color="#0f5f5b"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#hack-sky)"/>
+  <rect x="0" y="340" width="960" height="200" fill="#1f1a16"/>
+  <rect x="110" y="160" width="420" height="240" rx="18" fill="#3f2f2a"/>
+  <rect x="140" y="190" width="360" height="160" fill="#0f5f5b"/>
+  <rect x="170" y="220" width="180" height="16" fill="#fffdf8"/>
+  <rect x="170" y="250" width="240" height="12" fill="#f8e3dc"/>
+  <rect x="170" y="276" width="200" height="12" fill="#f8e3dc"/>
+  <rect x="170" y="302" width="140" height="12" fill="#b42318"/>
+  <rect x="250" y="400" width="140" height="18" fill="#4a3b35"/>
+  <circle cx="700" cy="230" r="70" fill="#fffdf8"/>
+  <circle cx="800" cy="300" r="48" fill="#b42318"/>
+  <circle cx="680" cy="330" r="36" fill="#6f675f"/>
+  <text x="80" y="500" fill="#fffdf8" font-family="Segoe UI, sans-serif" font-size="28">Hack</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Startup Business Night">
+  <defs>
+    <linearGradient id="night-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f5f5b"/>
+      <stop offset="100%" stop-color="#1f1a16"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#night-sky)"/>
+  <circle cx="140" cy="90" r="28" fill="#fffdf8" opacity="0.9"/>
+  <circle cx="260" cy="60" r="6" fill="#f8e3dc"/>
+  <circle cx="420" cy="110" r="5" fill="#f8e3dc"/>
+  <circle cx="780" cy="70" r="7" fill="#f8e3dc"/>
+  <path d="M40 360h120v180H40z" fill="#3f2f2a"/>
+  <path d="M180 240h90v300h-90z" fill="#4a3b35"/>
+  <path d="M290 180h130v360H290z" fill="#6f675f"/>
+  <path d="M440 210h180v330H440z" fill="#b42318"/>
+  <path d="M640 160h150v380H640z" fill="#0f5f5b"/>
+  <path d="M810 280h110v260H810z" fill="#3f2f2a"/>
+  <rect x="210" y="270" width="24" height="28" fill="#f3eee4"/>
+  <rect x="210" y="320" width="24" height="28" fill="#f3eee4"/>
+  <rect x="330" y="230" width="28" height="32" fill="#fffdf8"/>
+  <rect x="370" y="230" width="28" height="32" fill="#fffdf8"/>
+  <rect x="480" y="250" width="32" height="36" fill="#f8e3dc"/>
+  <rect x="530" y="250" width="32" height="36" fill="#f8e3dc"/>
+  <rect x="480" y="310" width="32" height="36" fill="#f8e3dc"/>
+  <rect x="530" y="310" width="32" height="36" fill="#f8e3dc"/>
+  <rect x="680" y="200" width="28" height="34" fill="#fffdf8"/>
+  <rect x="720" y="200" width="28" height="34" fill="#fffdf8"/>
+  <text x="80" y="500" fill="#fffdf8" font-family="Segoe UI, sans-serif" font-size="28">Night</text>
+</svg>

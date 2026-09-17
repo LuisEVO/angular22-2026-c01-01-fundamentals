@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Product Design Lab">
+  <defs>
+    <linearGradient id="lab-sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8e3dc"/>
+      <stop offset="100%" stop-color="#0f5f5b"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#lab-sky)"/>
+  <rect x="0" y="350" width="960" height="190" fill="#1f1a16"/>
+  <rect x="80" y="180" width="320" height="170" fill="#4a3b35"/>
+  <rect x="110" y="210" width="80" height="110" fill="#0f5f5b"/>
+  <rect x="210" y="230" width="80" height="90" fill="#b42318"/>
+  <rect x="310" y="200" width="60" height="120" fill="#fffdf8"/>
+  <path d="M520 140h240v210H520z" fill="#6f675f"/>
+  <circle cx="640" cy="230" r="48" fill="#f8e3dc"/>
+  <rect x="600" y="278" width="80" height="50" fill="#3f2f2a"/>
+  <rect x="800" y="220" width="70" height="130" fill="#0f5f5b"/>
+  <circle cx="180" cy="110" r="36" fill="#fffdf8" opacity="0.85"/>
+  <text x="80" y="500" fill="#fffdf8" font-family="Segoe UI, sans-serif" font-size="28">Lab</text>
+</svg>

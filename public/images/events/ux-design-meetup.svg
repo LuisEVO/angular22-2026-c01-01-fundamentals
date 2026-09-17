@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="UX Design Meetup">
+  <defs>
+    <linearGradient id="ux-sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8e3dc"/>
+      <stop offset="100%" stop-color="#0f5f5b"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#ux-sky)"/>
+  <rect x="0" y="360" width="960" height="180" fill="#1f1a16"/>
+  <rect x="90" y="120" width="360" height="240" rx="24" fill="#fffdf8"/>
+  <rect x="120" y="150" width="140" height="18" fill="#e4d9cc"/>
+  <rect x="120" y="186" width="300" height="12" fill="#f8e3dc"/>
+  <rect x="120" y="214" width="260" height="12" fill="#f8e3dc"/>
+  <rect x="120" y="260" width="120" height="60" rx="12" fill="#b42318"/>
+  <rect x="260" y="260" width="120" height="60" rx="12" fill="#0f5f5b"/>
+  <circle cx="620" cy="210" r="70" fill="#fffdf8"/>
+  <circle cx="760" cy="250" r="52" fill="#b42318"/>
+  <circle cx="690" cy="320" r="40" fill="#0f5f5b"/>
+  <path d="M620 210 L760 250 L690 320 Z" fill="none" stroke="#3f2f2a" stroke-width="6"/>
+  <text x="80" y="500" fill="#fffdf8" font-family="Segoe UI, sans-serif" font-size="28">UX</text>
+</svg>

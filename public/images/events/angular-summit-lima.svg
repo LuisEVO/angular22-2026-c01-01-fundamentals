@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Angular Summit Lima">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8e3dc"/>
+      <stop offset="100%" stop-color="#0f5f5b"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#sky)"/>
+  <rect x="0" y="330" width="960" height="210" fill="#1f1a16"/>
+  <path d="M80 330h140l-18 210H98z" fill="#3f2f2a"/>
+  <path d="M250 250h90v290h-90z" fill="#6f675f"/>
+  <path d="M370 180h120v360H370z" fill="#b42318"/>
+  <path d="M430 210l40 90h-80z" fill="#fffdf8"/>
+  <path d="M530 220h160v320H530z" fill="#0f5f5b"/>
+  <rect x="560" y="250" width="40" height="60" fill="#f3eee4"/>
+  <rect x="620" y="250" width="40" height="60" fill="#f3eee4"/>
+  <rect x="560" y="330" width="40" height="60" fill="#f3eee4"/>
+  <rect x="620" y="330" width="40" height="60" fill="#f3eee4"/>
+  <path d="M740 280h140v260H740z" fill="#4a3b35"/>
+  <circle cx="180" cy="120" r="42" fill="#fffdf8" opacity="0.85"/>
+  <text x="80" y="500" fill="#fffdf8" font-family="Segoe UI, sans-serif" font-size="28">Lima</text>
+</svg>
