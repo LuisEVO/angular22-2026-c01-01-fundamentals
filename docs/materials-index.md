@@ -23,8 +23,8 @@ This file is the source of truth for the status of educational materials. Chat a
 | Storyboard | ✅ | `docs/sessions/f01/storyboard.md` |
 | Lab guide source | ✅ | `docs/sessions/f01/lab-guide.md` |
 | Instructor guide source | ✅ | `docs/sessions/f01/instructor-guide.md` |
-| Lab guide DOCX | ✅ | Google Drive / 2026-C01 / 01-Fundamentals / F01 / 01-Lab-Guide |
-| Instructor guide DOCX | ✅ | Google Drive / 2026-C01 / 01-Fundamentals / F01 / 02-Instructor-Guide |
+| Lab guide DOCX | ✅ | [Drive](https://docs.google.com/document/d/17UshwWqAPseomcvVELBD03vwOfW2aV_0/edit) |
+| Instructor guide DOCX | ✅ | [Drive](https://docs.google.com/document/d/1YHg9z1vFNVzFwdb31MRtN3vEPiPbWH7f/edit) |
 | Slide deck | 🟡 | Visual redesign pending |
 | Visual asset manifest | 🟡 | `docs/sessions/f01/visual-assets.md` |
 
@@ -107,3 +107,11 @@ materials-index.md updated
 ```
 
 Do not create filenames such as `final-v2`, `final-final`, etc. The canonical Drive file keeps one stable filename; Drive version history tracks replacements.
+
+
+## Quick links
+
+- [2026-C01 course folder](https://drive.google.com/drive/folders/1Dtjs__67VWgANXpwuV9gjb9jeP5oymj5)
+- [Fundamentals folder](https://drive.google.com/drive/folders/1SX2kDR682mQTefwGKuzvA2IneWRy3cO_)
+- [F01 folder](https://drive.google.com/drive/folders/1kWg_RsgkoER3ZzLQbBh8lgEfSA-kvfyn)
+- [Presentation templates](https://drive.google.com/drive/folders/1nw08uA4W5wMKF-Ns9pKBEAYVCzkEFcGO)
