@@ -33,8 +33,11 @@ This file is the source of truth for the status of educational materials. Chat a
 | Instructor guide source | ✅ | `docs/sessions/f01/instructor-guide.md` |
 | Lab guide DOCX | ✅ | [Drive](https://docs.google.com/document/d/17UshwWqAPseomcvVELBD03vwOfW2aV_0/edit) |
 | Instructor guide DOCX | ✅ | [Drive](https://docs.google.com/document/d/1YHg9z1vFNVzFwdb31MRtN3vEPiPbWH7f/edit) |
-| Slide deck | 🟡 | Visual redesign pending |
-| Visual asset manifest | 🟡 | `docs/sessions/f01/visual-assets.md` |
+| Visual asset manifest | ✅ | `docs/sessions/f01/visual-assets.md` |
+| Visual asset sources | ✅ | `docs/sessions/f01/visuals/` |
+| Visual asset pack | ✅ | [Drive](https://drive.google.com/file/d/1eGMgHtiyMVwICNwUET-tLV7BYf2Gzbgf/view) |
+| Visual asset preview | ✅ | [Drive](https://drive.google.com/file/d/1IPUnO0HiaM51Q5XtQBGMYK0GosBWGlMP/view) |
+| Slide deck | 🟡 | Rebuild using approved visual asset pack |
 
 ### F02
 ⚪ Not started
@@ -72,7 +75,12 @@ docs/
         ├── storyboard.md
         ├── lab-guide.md
         ├── instructor-guide.md
-        └── visual-assets.md
+        ├── visual-assets.md
+        └── visuals/
+            ├── README.md
+            ├── manifest.json
+            ├── render-d2.sh
+            └── sources/
 ```
 
 ### Google Drive
@@ -115,7 +123,6 @@ materials-index.md updated
 ```
 
 Do not create filenames such as `final-v2`, `final-final`, etc. The canonical Drive file keeps one stable filename; Drive version history tracks replacements.
-
 
 ## Quick links
 
