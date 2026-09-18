@@ -1,0 +1,12 @@
+{
+  "session": "F01",
+  "title": "Introduction to Angular 22 and first components",
+  "asset_count": 32,
+  "workflow": {
+    "diagram_source": "D2",
+    "delivery_format": "SVG",
+    "final_assembly": "PowerPoint",
+    "code_rule": "Code indentation is preserved using x-offsets per indentation level."
+  },
+  "status": "approved"
+}
