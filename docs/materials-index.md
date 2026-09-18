@@ -12,6 +12,14 @@ This file is the source of truth for the status of educational materials. Chat a
 - ⚪ Not started
 - 🔒 Technical checkpoint frozen
 
+## Shared presentation assets
+
+| Artifact | Status | Source / location |
+|---|---|---|
+| Presentation visual system | 🟡 Prototype | `docs/presentation-visual-system.md` |
+| Visual system preview | 🟡 Prototype | [Drive](https://drive.google.com/file/d/1mwG2MVO6FNGsbFikZY9LR86Nz27nDam8/view) |
+| Visual system prototypes ZIP | 🟡 Prototype | [Drive](https://drive.google.com/file/d/1E1pOPLxfhl_oClNGHEbqgrYVEYn_Uqur/view) |
+
 ## Fundamentals
 
 ### F01 — Introduction to Angular 22 and first components
