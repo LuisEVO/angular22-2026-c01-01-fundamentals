@@ -37,7 +37,8 @@ This file is the source of truth for the status of educational materials. Chat a
 | Visual asset sources | ✅ | `docs/sessions/f01/visuals/` |
 | Visual asset pack | ✅ | [Drive](https://drive.google.com/file/d/1eGMgHtiyMVwICNwUET-tLV7BYf2Gzbgf/view) |
 | Visual asset preview | ✅ | [Drive](https://drive.google.com/file/d/1IPUnO0HiaM51Q5XtQBGMYK0GosBWGlMP/view) |
-| Slide deck | ✅ | [Drive](https://docs.google.com/presentation/d/1a1-u_H6T1k74HTedMOG4GsRFzW5Viz0q/edit) |
+| Slide deck | ✅ | [Drive](https://docs.google.com/presentation/d/1vBiJg0U7oecgHzC_Gu3nWDDQCUXDv2I5/edit) |
+| Corrected slide 5 preview | ✅ | [Drive](https://drive.google.com/file/d/1SX-4yzj7WTtJoGa61SyZISbS4LVm4UY5/view) |
 | Slide preview | ✅ | [Drive](https://drive.google.com/file/d/1qW5n3daB0SanzIACLUTUa_6REdYHFP6j/view) |
 
 ### F02
